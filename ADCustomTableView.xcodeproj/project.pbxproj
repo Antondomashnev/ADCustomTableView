@@ -18,6 +18,7 @@
 		6DEFD68B17674FC8005058B5 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6DEFD68A17674FC8005058B5 /* Default-568h@2x.png */; };
 		6DEFD68E17674FC8005058B5 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6DEFD68D17674FC8005058B5 /* ViewController.m */; };
 		6DEFD69117674FC8005058B5 /* ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 6DEFD68F17674FC8005058B5 /* ViewController.xib */; };
+		6DEFD69C17675225005058B5 /* ADCustomTableView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6DEFD69B17675225005058B5 /* ADCustomTableView.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -37,6 +38,8 @@
 		6DEFD68C17674FC8005058B5 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		6DEFD68D17674FC8005058B5 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		6DEFD69017674FC8005058B5 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController.xib; sourceTree = "<group>"; };
+		6DEFD69A17675225005058B5 /* ADCustomTableView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ADCustomTableView.h; sourceTree = "<group>"; };
+		6DEFD69B17675225005058B5 /* ADCustomTableView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ADCustomTableView.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +92,8 @@
 				6DEFD68D17674FC8005058B5 /* ViewController.m */,
 				6DEFD68F17674FC8005058B5 /* ViewController.xib */,
 				6DEFD67B17674FC8005058B5 /* Supporting Files */,
+				6DEFD69A17675225005058B5 /* ADCustomTableView.h */,
+				6DEFD69B17675225005058B5 /* ADCustomTableView.m */,
 			);
 			path = ADCustomTableView;
 			sourceTree = "<group>";
@@ -176,6 +181,7 @@
 				6DEFD68117674FC8005058B5 /* main.m in Sources */,
 				6DEFD68517674FC8005058B5 /* AppDelegate.m in Sources */,
 				6DEFD68E17674FC8005058B5 /* ViewController.m in Sources */,
+				6DEFD69C17675225005058B5 /* ADCustomTableView.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
