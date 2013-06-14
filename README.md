@@ -35,7 +35,7 @@ First way to add the ADCustomTableView to your project is to directly add the so
 Usage
 =====
 
-Just make your table subclass of ADCustomTableView
+Just make your tableView a class of ADCustomTableView
 
 ```objective-c
 UITableView *myTableView = [[ADCustomTableView alloc] initWithFrame:self.view.bounds style:UITableViewStylePlain];
